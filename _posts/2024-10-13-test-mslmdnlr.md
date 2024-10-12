@@ -8,7 +8,7 @@ tags: [test]
 
 
 
-Merhaba bu bir test sayfası
+Merhaba bu bir test sayfasıdır
 
 
 
